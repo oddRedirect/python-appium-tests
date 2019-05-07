@@ -21,8 +21,8 @@ Installation for Windows:
  > Test Cases
  - run python TC01.py
  - run python TC02.py
- - run python TC77.py 'phone-number', where <em>phone-number</em> is a registered phone number
- - run python login.py <em>phone-number</em> <em>password</em>, with valid credententials 
+ - run python TC77.py `phone-number`, where `phone-number` is a registered phone number
+ - run python login.py `phone-number` `password`, with valid credententials 
  
  Note:
  - Unable to query select menu icon element once logged in with webdriver (despite using XPath, class name, etc), thus unable to create test cases involving menu icon options i.e. Profile, Payment, Help, and History. 
