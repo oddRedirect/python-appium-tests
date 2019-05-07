@@ -25,6 +25,6 @@ Installation for Windows:
  - run python login.py `phone-number` `password`, with valid credententials 
  
  Note:
- - Was unable to query select menu icon element once logged in with webdriver (despite using XPath, class name, etc), thus unable to create test cases involving menu icon options i.e. Profile, Payment, Help, and History. 
+ - Was unable to query select menu icon element once logged in with webdriver (despite using XPath, class name, etc), thus unable to create test cases involving menu icon options i.e. Profile, Payment, Help, and History. Appium suggests including a resource-id [yellow image]
  
- <img src="screenshots/pastedImage.png" height=700px>
+ <img src="screenshots/pastedImage.png">
