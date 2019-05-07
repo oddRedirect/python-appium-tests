@@ -27,3 +27,4 @@ Installation for Windows:
  Note:
  - Was unable to query select menu icon element once logged in with webdriver (despite using XPath, class name, etc), thus unable to create test cases involving menu icon options i.e. Profile, Payment, Help, and History. 
  
+ <img src="images/pastedImage.png">
