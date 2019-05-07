@@ -28,3 +28,4 @@ Installation for Windows:
  - Was unable to query select menu icon element once logged in with webdriver (despite using XPath, class name, etc), thus unable to create test cases involving menu icon options i.e. Profile, Payment, Help, and History. Appium suggests including a resource-id [yellow image]
  
  <img src="screenshots/pastedImage.png">
+ <img src="screenshots/screenshot_250.png">
