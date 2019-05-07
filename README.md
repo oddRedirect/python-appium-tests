@@ -21,7 +21,7 @@ Installation for Windows:
  > Test Cases
  - run python TC01.py
  - run python TC02.py
- - run python TC77.py <em>phone-number</em>, where <em>phone-number</em> is a registered phone number
+ - run python TC77.py 'phone-number', where <em>phone-number</em> is a registered phone number
  - run python login.py <em>phone-number</em> <em>password</em>, with valid credententials 
  
  Note:
