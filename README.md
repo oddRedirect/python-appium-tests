@@ -23,3 +23,6 @@ Installation for Windows:
  - run python TC02.py
  - run python TC77.py 'phone-number', where 'phone-number' is a registered phone number
  - run python login.py 'phone-number' 'password', with valid credententials 
+ 
+ Note:
+ - Unable to find menu icon element once logged in, thus unable to create test cases involving menu icon i.e. Profile, Payment, Help, History. 
